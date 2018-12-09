@@ -1,0 +1,138 @@
+header {
+    height: 100vh;
+    background-image: url("../images/headerImage.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.logo {
+    height: 35px;
+    margin: 17.5px 0;
+}
+nav li {
+    text-decoration: none;
+    color: #fff;
+    font-size: 16px;
+    text-transform: uppercase;
+    cursor: pointer;
+    font-weight: bold;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+#topNav {
+     height:5vh;
+}
+#introduction {
+    margin-top: 30vh;
+    color: #fff;
+    margin-left: 40px;
+}
+#introduction h1 {
+    font-size: 50px;
+    opacity: 0.8;
+}
+#introduction h2 {
+    opacity: 0.8;
+}
+#about h2 {
+    text-transform: uppercase;
+}
+#about h3 {
+    text-transform: uppercase;
+}
+.about {
+    padding:100px 0;
+    background-color:white;
+}
+.card {
+    width: 400px;
+}
+#about img {
+     padding: 15px 10px;
+}
+.left {
+    box-shadow: 5px 10px 18px #888888;
+}
+#skills p {
+    text-transform:uppercase;
+    font-weight:bold;
+    text-align:center;
+}
+#skills h2 {
+    text-transform: uppercase;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align:center;
+}
+#skills h3 {
+    text-decoration: underline;
+}
+#skills {
+     background-color: black;
+     background-size: cover;
+     padding: 100px 0;
+     opacity: 0.95;
+}
+#clickPortfolio {
+    background-color: white;
+    color: black;
+}
+#portfolio {
+    background-size: cover;
+    padding: 100px 0;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#portfolio img {
+    width: 200px;
+    height: 200px;
+    padding: 20px 0;
+}
+#portfolio p {
+    font-style: italic;
+}
+#portfolio h2 {
+    padding-left: 30px;
+}
+.sectionHeader {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-decoration: underline;
+    text-align:center;
+    font-style:italic;
+    padding-bottom:25px;
+}
+#contact {
+    background-color: black;
+    background-size: cover;
+    padding: 90px 0;
+    opacity: 0.95;
+    color:white;
+}
+#contact h2 {
+    text-transform: uppercase;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+#contactMeHeader {
+    text-transform: uppercase;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    font-style: italic;
+    text-decoration: underline;
+}
+#info {
+    color: white;
+    text-align: center;
+    font-size: 16px;
+}
+#info a {
+    color: white;
+    text-align: center;
+}
+#social {
+    text-align: center;
+    margin: auto;
+}
+#footer {
+    padding: 12px 0;
+    text-align: center;
+    position: relative;
+    color:black;
+}
